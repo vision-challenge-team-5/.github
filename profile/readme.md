@@ -70,11 +70,13 @@
 ---
 
 ## **7. Whole Infrastructure Architecture**  
-* Infrastructure Architecture
+#### Infrastructure Architecture
 <img width="600px" src="https://github.com/user-attachments/assets/a97c0a37-59a5-4f8d-8efd-87e0326aeff8"/>
 
 
-* UI Design
+#### UI Design
+![image](https://github.com/user-attachments/assets/305f1d7a-f747-4596-a091-5ecc61125f5d)
+
 ---
 
 ## **8. 기대 효과**
