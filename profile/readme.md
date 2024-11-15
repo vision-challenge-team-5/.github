@@ -104,4 +104,4 @@
 
 - Alshareef, Muhannad J. "A comprehensive review of the soiling effects on PV module performance." IEEE Access 11 (2023): 134623-134651.
 
-> 해당 논문에서 오염이 태양광 패널로 미치는 악영향에 대해서 언급했고, 해당 Pain Point 를 해결하기 위해서 위 프로젝트를 구성하였습니다.
+> 해당 논문에서 오염이 태양광 패널로 미치는 악영향에 대해서 언급했고, 해당 **Pain Point** 를 해결하기 위해서 위 프로젝트를 구성하였습니다.
