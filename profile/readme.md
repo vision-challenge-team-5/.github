@@ -98,3 +98,10 @@
 
 - **환경적 이점**  
   태양광 발전소의 효율성을 높임으로써, 화석 연료 사용을 줄이고 환경에 미치는 부정적인 영향을 최소화할 수 있습니다. 이 시스템은 친환경적인 에너지 관리를 촉진하는 중요한 기술로 자리잡을 것입니다.
+
+## 참고 문헌
+- Li, Xiaoyuan, Denise L. Mauzerall, and Mike H. Bergin. "Global reduction of solar power generation efficiency due to aerosols and panel soiling." Nature Sustainability 3.9 (2020): 720-727.
+
+- Alshareef, Muhannad J. "A comprehensive review of the soiling effects on PV module performance." IEEE Access 11 (2023): 134623-134651.
+
+> 해당 논문에서 태양광 패널로 생기는 환경 문제에 대해서 언급하고, 해당 프로젝트는 해당 Pain Point 를 해결하기 위해 만들어졌다.
