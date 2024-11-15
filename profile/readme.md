@@ -54,8 +54,8 @@
 ---
 
 ## **5. 직렬별 세부 README**  
-- [Service(Full Stack)](https://github.com/vision-challenge-team-5/solar-clear/README.md)  
-- [AI](https://github.com/vision-challenge-team-5/AI/README.md)  
+- [Service(Full Stack)](https://github.com/vision-challenge-team-5/solar-clear/blob/develop/README.md)  
+- [AI](https://github.com/vision-challenge-team-5/AI/blob/main/README.md)  
 
 ---
 
