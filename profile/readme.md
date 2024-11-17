@@ -4,6 +4,8 @@
 # **태양광 패널 오염 감지 시스템 (Solar Clear)**  
 **SDGs #7: Affordable and Clean Energy**  
 
+> 2024년 GDG vision hackerthon 아이디어상 수상작
+
 ---
 ## **0. 목차**  
 1. [프로젝트 개요](#1-프로젝트-개요)  
